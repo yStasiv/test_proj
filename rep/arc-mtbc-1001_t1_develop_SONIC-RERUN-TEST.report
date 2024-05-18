@@ -1,0 +1,7 @@
+Test Name: SONIC-RERUN-TEST
+Setup: arc-asdr-1003
+URL: some3.url
+Topology: t3
+Branch: develop
+Result: NOT OK
+Details: Deployment successful.

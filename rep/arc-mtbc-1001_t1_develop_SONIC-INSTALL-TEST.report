@@ -1,0 +1,7 @@
+Test Name: SONIC-INSTALL-TEST
+Setup: arc-asdr-1003
+URL: some2.url
+Topology: t3
+Branch: develop
+Result: OK
+Details: Deployment successful.
